@@ -1,2 +1,2 @@
-# ozon-fresh-analysis
-Пет-проект по анализу Ozon Fresh. 
+# Ozon-Fresh-Analysis
+Пет-проект по анализу Ozon Fresh.
